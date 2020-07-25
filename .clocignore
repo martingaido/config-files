@@ -1,0 +1,6 @@
+backend/node_modules
+backend/includes/json
+frontend/node_modules
+frontend/src/assets
+frontend/tests
+frontend/dist
